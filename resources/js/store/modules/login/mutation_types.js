@@ -1,0 +1,6 @@
+export const INPUT_EMAIL = 'INPUT_EMAIL'
+export const INPUT_PASSWORD = 'INPUT_PASSWORD'
+export const UPDATE_ERRORS = 'UPDATE_ERRORS'
+export const UPDATE_TOKEN = 'UPDATE_TOKEN'
+export const SET_USER_DATA = 'SET_USER_DATA'
+export const RESET_ERRORS = 'RESET_ERRORS'

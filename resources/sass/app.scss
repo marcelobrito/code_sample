@@ -1,0 +1,13 @@
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.container {
+    margin-top: 1rem;
+}
+.form-text {
+    margin-bottom: 10px;
+}
+.toast-alert {
+    display: none;
+    z-index: 1100;
+}
